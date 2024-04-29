@@ -1,8 +1,26 @@
-body
-{
-background-color: aqua;
+div{
+   margin: auto;
+  font-family: cursive;
+   font-display: bold;
+   color:red;
+   
 }
-p{
-    color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.aboutme{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(255, 132, 0);
+    margin: auto;
+    width: 500px;
+
+    
 }
+body{
+    background-color: aquamarine;
+
+}
+img{
+    margin: auto;
+    align-items: right;
+    width: 300px;
+}
+
