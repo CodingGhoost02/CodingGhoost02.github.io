@@ -1,26 +1,10 @@
-div{
-   margin: auto;
-  font-family: cursive;
-   font-display: bold;
-   color:red;
-   
-}
-.aboutme{
-    font-size: large;
-    font-family: 'Times New Roman', Times, serif;
-    color:rgb(255, 132, 0);
-    margin: auto;
-    width: 500px;
-
+/*general*/
+*{
+    margin:0;
+    padding: 0;
     
 }
+
 body{
-    background-color: aquamarine;
-
+    
 }
-img{
-    margin: auto;
-    align-items: right;
-    width: 300px;
-}
-
